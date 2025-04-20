@@ -1,1 +1,1 @@
-# stairway-to-heaven-script
+I made this script with absolutely 0 coding knowledge! Expect bugs.
